@@ -470,13 +470,13 @@
             if (docHeight < docHeightNew) {
                 $calendar.css('bottom', $element.height() + 11);
             }
-            $input.prop('disabled', true);
+            //$input.prop('disabled', true);
             $(document).one('mousedown.calendar', hideCalendar);
         }
 
         function hideCalendar () {
             $calendar.hide();
-            $input.prop('disabled', false);
+            //$input.prop('disabled', false);
             $(document).off('mousedown.calendar');
             $input.blur();
         }
