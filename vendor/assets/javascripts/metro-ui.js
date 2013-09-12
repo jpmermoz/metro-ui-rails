@@ -2,7 +2,6 @@
 //= require metro-ui/pagecontrol
 //= require metro-ui/accordion
 //= require metro-ui/calendar
-//= require metro-ui/tile-drag
 //= require metro-ui/dropdown
 //= require metro-ui/start-menu
 //= require metro-ui/dialog
