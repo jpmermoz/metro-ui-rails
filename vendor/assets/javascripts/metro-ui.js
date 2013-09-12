@@ -1,4 +1,3 @@
-//= require jquery.mousewheel.min.js
 //= require metro-ui/pagecontrol
 //= require metro-ui/accordion
 //= require metro-ui/calendar
